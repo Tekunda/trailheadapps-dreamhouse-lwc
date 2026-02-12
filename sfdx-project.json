@@ -22,6 +22,14 @@
             "default": false,
             "package": "demo-trailheadsapps",
             "versionDescription": ""
+        },
+        {
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "path": "force-app/main",
+            "default": false,
+            "package": "test",
+            "versionDescription": ""
         }
     ],
     "namespace": "",
@@ -31,6 +39,7 @@
         "DreamhouseLWC@61.0.0-4": "04tKY000000LP3aYAG",
         "DreamhouseLWC@64.0.0-3": "04tKY000000MF7uYAG",
         "dreamhouse-lwc-unlocked": "0HoP50000000feHKAQ",
-        "demo-trailheadsapps": "0Hod100000005R7CAI"
+        "demo-trailheadsapps": "0Hod100000005R7CAI",
+        "test": "0Hod100000006wfCAA"
     }
 }
