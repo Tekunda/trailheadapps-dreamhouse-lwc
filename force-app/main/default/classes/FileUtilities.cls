@@ -12,6 +12,8 @@ public with sharing class FileUtilities {
             contentVersion.PathOnClient = filename;
             insert contentVersion;
 
+
+
             contentVersion = [
                 SELECT ContentDocumentId
                 FROM ContentVersion
