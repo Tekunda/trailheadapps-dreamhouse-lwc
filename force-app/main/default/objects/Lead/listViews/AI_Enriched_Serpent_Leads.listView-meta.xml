@@ -14,6 +14,7 @@
     <columns>ai_growth_insights__c</columns>
     <columns>ai_industry_insights__c</columns>
     <columns>ai_leadership_insights__c</columns>
+    <columns>ai_email__c</columns>
     <filterScope>Everything</filterScope>
     <filters>
         <field>ai_enriched__c</field>
