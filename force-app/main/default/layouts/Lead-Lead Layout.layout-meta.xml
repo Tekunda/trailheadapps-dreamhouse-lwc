@@ -173,6 +173,10 @@
                 <behavior>Edit</behavior>
                 <field>Triage_Rejection_Reason__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Registration_Timestamp__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
