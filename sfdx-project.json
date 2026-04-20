@@ -30,9 +30,17 @@
             "default": false,
             "package": "test",
             "versionDescription": ""
+        },
+        {
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "path": "force-app",
+            "default": false,
+            "package": "tekgfgg",
+            "versionDescription": ""
         }
     ],
-    "namespace": "",
+    "namespace": "Tekunda",
     "sourceApiVersion": "64.0",
     "packageAliases": {
         "DreamhouseLWC": "0Ho3h000000PBghCAG",
@@ -40,6 +48,7 @@
         "DreamhouseLWC@64.0.0-3": "04tKY000000MF7uYAG",
         "dreamhouse-lwc-unlocked": "0HoP50000000feHKAQ",
         "demo-trailheadsapps": "0Hod100000005R7CAI",
-        "test": "0Hod100000006wfCAA"
+        "test": "0Hod100000006wfCAA",
+        "tekgfgg": "0HoP50000000m6HKAQ"
     }
 }
