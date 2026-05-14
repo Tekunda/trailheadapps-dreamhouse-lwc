@@ -81,7 +81,6 @@
                 <field>AnnualRevenue</field>
             </layoutItems>
         </layoutColumns>
-        </layoutColumns>
         <style>TwoColumnsLeftToRight</style>
     </layoutSections>
     <layoutSections>
